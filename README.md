@@ -4,7 +4,7 @@
 
 <!--내용 부분-->g
 
-<h3 align="center">✨✨ Tech Stack dd✨✨</h3>
+<h3 align="center">✨✨ Tech Stack dd✨✨ㄴㄴ</h3>
 
 <div align="center">
   <img src="https://img.shields.io/badge/typescript-007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" />&nbsp;
