@@ -6,5 +6,4 @@
         alt="gitanimals"
       />
     </a>
-sasaaㅇ
-aattygsㅇ
+
